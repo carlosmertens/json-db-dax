@@ -1,0 +1,44 @@
+{
+  "parte": [
+    {
+      "id": 1,
+      "descripcion": "Grua",
+      "aplicacion": "Se puede aplicar en la grua",
+      "tipo": "Construccion",
+      "precio": "450",
+      "tiempo": "3"
+    }
+    {
+      "id": 2,
+      "descripcion": "Catarpila",
+      "aplicacion": "Se puede aplicar en la catarpila",
+      "tipo": "Construccion pesada",
+      "precio": "3000",
+      "tiempo": "5"
+    }
+    {
+      "id": 3,
+      "descripcion": "Fumigadora",
+      "aplicacion": "Se puede aplicar en la granja",
+      "tipo": "Agricola",
+      "precio": "2000",
+      "tiempo": "7"
+    }
+    {
+      "id": 4,
+      "descripcion": "Generadores",
+      "aplicacion": "Se puede aplicar en la factoria",
+      "tipo": "Electricidad",
+      "precio": "900",
+      "tiempo": "3"
+    }
+    {
+      "id": 5,
+      "descripcion": "Sembradoras",
+      "aplicacion": "Se puede aplicar en la granja",
+      "tipo": "Agricola",
+      "precio": "8000",
+      "tiempo": "10"
+    }
+  ]
+}
